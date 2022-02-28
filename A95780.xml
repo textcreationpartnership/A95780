@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Utrum horum, mavis, accipe. A dialogue between T-O- and C.G-P- as they met in the privy-garden</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95780</idno>
+            <idno type="STC">Wing U230A</idno>
+            <idno type="STC">ESTC R230525</idno>
+            <idno type="EEBO-CITATION">99896037</idno>
+            <idno type="PROQUEST">99896037</idno>
+            <idno type="VID">153707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2375:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Utrum horum, mavis, accipe. A dialogue between T-O- and C.G-P- as they met in the privy-garden</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year 1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire --  Early works to 1800.</term>
+               <term>Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:153707:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <head>Utrum Horum, Mavis, Accipe.</head>
+            <head type="sub">A DIALOGUE BETWEEN <hi>T— D—</hi> And C. <hi>G— P—</hi> As they met in the <hi>Privy-Garden.</hi>
+            </head>
+            <sp>
+               <speaker>O.</speaker>
+               <p>WELL met Brother Evidence, I am glad at laſt that we are both in the ſame Predicament.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Zounds, who made me a Brother to ſuch a profligate Wretch as thou art?</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Sir, I hope 'tis not ſo great an Affront for a Dr. of the No<g ref="char:EOLhyphen"/>ble Univerſity of <hi>Salamanca,</hi> to call a disbanded Captain, Brother; and eſpecially when we are ſo upon more Titles than one.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Pox on thy Brazen-Face. I can ſhew a real Commiſſion I had from my <hi>Quondam</hi> Maſter for my Captainſhip; whereas you cannot ſhew the leaſt ſcrap of your <hi>Diploma</hi> for your Dr's. De<g ref="char:EOLhyphen"/>gree, having never been within two hundred miles of that fam'd Univerſity.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>How do you know but I had it by the Poſt?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Oh, oh! Good Doctor, the firſt Dr. of the Poſt, but not the firſt Knight of it, I am ſure.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Sir, Do you call me Dr. of the Poſt? Remember that I was ſtyled Saviour of the Nation, and believed by Parliaments.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>A Saviour of the Nation you may be ſtill; but you muſt be Crucified firſt, you perjured Dog; tho' three Parliaments believed you; the all-healing Parliaments that have been ſince this happy Revolution, refuſed to take off your Attainder of
+<pb n="2" facs="tcp:153707:2"/>
+                  <!-- PDF PAGE 35 -->Perjury, which, be ſure they would have done, had they judg<g ref="char:EOLhyphen"/>ed you Innocent, ſo that now you are like a Serpent whoſe Poyſon lies in his Teeth, which after they are pulled out, every body may play with Security.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Sir, If my Breath ſtinks, I am ſure you have foul a Mouth, and when you tell me of Crucifying, think of hanging your ſelf, good Brother Evidence,</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>O how my Vallour rouſes if it were not to deſtroy the breed of Evidences, you ſhould quickly feel the Effects of my Reſent<g ref="char:EOLhyphen"/>ments.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Your Reſentments? You never durſt draw your Sword in Anger, if your Enemies Sword were drawn firſt. I have heard you have ſuffered your ſelf rather than fight, to be twang'd by the Noſe.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>That's one of <hi>Charnock</hi>'s and my Man <hi>Key</hi>'s Stories; but I think I have been even with them ſince.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>That you have with a witneſs, and I believe was the firſt Maſter that ever drew in his Man to commit Treaſon, and after hanged him for his Pains.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>No more reflections, good Dr. of the Poſt, my Traytors confeſſed their Crimes at the Gallows, and with their dying Breaths, confirmed my Evidence; but yours denyed it to the laſt Breath.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Good Captain <hi>B. B.</hi> Do you know the reaſon of it? When my Traytors ſuffered, the Pope was not in a Confederacy againſt <hi>France,</hi> and ſo gave them Diſpenſations to die with a lye in their Mouths; but being now in the Confederacy, he utterly denyed all Diſpenſations, and ſo they were forced to confeſs; whereas mine having it in their Pockets, died hard as they Phraſe it.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Pox take your ſilly Reaſons. I am ſure you could aſſign better; have you forgot what you ſaid in your Book called the <hi>Popes Ware-houſe,</hi> that one might have a Diſpenſation for moſt Crimes, eſpecially Treaſon againſt a Proteſtant Prince for half a Crown, and a Cheap penny worth too; and you know the old Gentleman ſtill loves Money, and would not ſhut up his Ware-houſe upon any account whatſoever; and do you think
+<pb n="3" facs="tcp:153707:2"/>
+                  <!-- PDF PAGE 35 -->that neither they nor any of their party could procure half a <gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>own?</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>what I ſaid in my Ware-houſe was only a Caſt of my Office, and ſerved a turn then; for who does not reflect, that if Diſ<g ref="char:EOLhyphen"/>penſations were ſo eaſy to be got, that to make Laws againſt the Papiſts, or ſo reputed, were but to hedge in the Cuckow, and that no Man would pay double Taxes, or want an Employment for want of an Oath, when he may be diſpenſed with any Per<g ref="char:EOLhyphen"/>jury for half a Crown?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>What you are coming over to my Church.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Where the Devil's that?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Where a Pox is yours, Zounds, Sword draw your ſelf, and revenge my Quarrel.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Sir, have a care of Swearing; you know the ſeverity of the late Act.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Good wooden Dr. of the <hi>Poſt,</hi> keep your advice to your ſelf, I have not ſworn above twice, and it I looſe time by it, I do not much value it, I have four <hi>Pounds per</hi> Week. I am ſure you need not, for you have got well by Swearing. Some ſay three or four hundred a Year.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>What's that to 40000 <hi>Pounds,</hi> that was promiſed me by a good many true <hi>Protestants,</hi> as I might then have kept my Coach and Six, and have had a great deal of <hi>Maſculine</hi> diver<g ref="char:EOLhyphen"/>tiſements. But now while I think on't, meet me at the — Ta<g ref="char:EOLhyphen"/>vern at <hi>Charing-Croſs,</hi> there's a delicate Drawer, as beautiful as <hi>Ganimedes,</hi> and will end all Quarrels, you know what I mean, 'tis no ſmall pleaſure to have good Wine filled by a beautiful Hand.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I underſtand trap. I do not mean trap <hi>ad Crucem:</hi> This <hi>innuendo</hi> is enough; I'll be ſure, and I heartily forgive you for what is paſt, and I could almoſt meaſure Chins with you even now for your good News.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>We are not unlike in our Chins; which denotes more Cowardize than Vallour and Bravery in either of us.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I am impatient to hear your Nonſenſe, in Repeating ſuch
+<pb n="4" facs="tcp:153707:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 36 -->infamous Actions, that are enough to make a Neager Bluſh: Do you hear how your old friend groans for you?</p>
+               <lg>
+                  <l>Oh! name it once again; will <hi>Titus</hi> come?</l>
+                  <l>My deareſt, hopeful, that long wiſh'd for One,</l>
+                  <l>For whom my <hi>Triple Arms</hi> extended were,</l>
+                  <l>(To hug with cloſe Embraces) many a year.</l>
+                  <l>Haſte! haſte! my choiceſt Darling, whom I love,</l>
+                  <l>And thy long-promis'd kindneſs let me prove.</l>
+                  <l>That <hi>Right</hi> thou plead'ſt for, which indeed's thy due,</l>
+                  <l>Though others I've deny'd, I'll grant it You.</l>
+                  <l>The World ſhall find I willingly will bear,</l>
+                  <l>And dance thy Carcaſe 'twixt the Earth and Air.</l>
+                  <l>In <hi>Hemp'n ſtring</hi> I'll lull thee faſt a ſleep,</l>
+                  <l>And prevent all the Dangers of the Deep.</l>
+                  <l>Oh, how I love thee! 'cauſe I've heard thou'ſt been</l>
+                  <l>So well acquainted with all kinds of Sin,</l>
+                  <l>And, with a falſe and ſtrange Religious Guiſe,</l>
+                  <l>Deſtroy'd the <hi>Innocent,</hi> abus'd the <hi>Wiſe.</hi>
+                  </l>
+                  <l>What crafty Leſſons didſt thou teach to men!</l>
+                  <l>
+                     <hi>How to Rebell,</hi> and told the time beſt <hi>when;</hi>
+                  </l>
+                  <l>Urg'd to Exclude a Right and Lawful Heir,</l>
+                  <l>Unthrone a King, and ſwore away a <hi>Peer.</hi>
+                  </l>
+                  <l>Thy Zeal through two-inch-Boards was plainly ſeen,</l>
+                  <l>When <hi>Satan</hi> prompt thee to ſwear 'gainſt the <hi>Queen:</hi>
+                  </l>
+                  <l>Beſides thoſe many guiltleſs Souls that dy'd</l>
+                  <l>A Sacrifice to thy <hi>Luciferian Pride.</hi>
+                  </l>
+                  <lg>
+                     <l>Yet, yet, beloved <hi>Titus,</hi> my dear Son,</l>
+                     <l>(Reputed <hi>Saviour,</hi> for thy Mercies ſhewn,)</l>
+                     <l>And well maiſt claim my Pallace as thine own.</l>
+                  </lg>
+                  <l>Thou'lt find me kinder far than Courtiers; I</l>
+                  <l>Will never turn thee out until thou die:</l>
+                  <l>And, ſince <hi>White-hall</hi> has left thee, I'll provide</l>
+                  <l>That Lodging for Thee, where old <hi>Noll</hi> was ty'd.</l>
+               </lg>
+               <p>Adieu, dear Brother.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
